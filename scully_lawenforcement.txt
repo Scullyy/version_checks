@@ -1,7 +1,6 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "updateLog": [
-        "Fixed a bug with duty blips when players were out of scope.",
-        "Added a version checker to ensure you get notified of all the latest updates."
+        "Fixed a bug where some duty blips would not remove."
     ]
 }
