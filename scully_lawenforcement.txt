@@ -1,6 +1,9 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "updateLog": [
-        "Fixed a bug where some duty blips would not remove."
+        "You can now see duty blips for players who are out of scope.",
+        "When searching players you can now remove weapons by clicking on them.",
+        "You can now adjust duty blips per department in the departments.lua file.",
+        "Added a new panic button sound."
     ]
 }
