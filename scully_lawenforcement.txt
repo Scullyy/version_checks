@@ -1,8 +1,7 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "updateLog": [
-        "You can now enable blip cones for nearby players on duty blips which will show what direction they are facing.",
-        "Fixed an issue with the quickbinds where regular players could access them, this would cause them to get kicked due to no permissions.",
-        "Added a convar to enable a cuffed requirement when searching players."
+        "Added a new convar which when enabled will force AFK players off-duty after 10 minutes.",
+        "Added an export which will return how many players are on-duty."
     ]
 }
