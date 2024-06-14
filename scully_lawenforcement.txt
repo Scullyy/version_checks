@@ -1,9 +1,8 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "updateLog": [
-        "You can now see duty blips for players who are out of scope.",
-        "When searching players you can now remove weapons by clicking on them.",
-        "You can now adjust duty blips per department in the departments.lua file.",
-        "Added a new panic button sound."
+        "You can now enable blip cones for nearby players on duty blips which will show what direction they are facing.",
+        "Fixed an issue with the quickbinds where regular players could access them, this would cause them to get kicked due to no permissions.",
+        "Added a convar to enable a cuffed requirement when searching players."
     ]
 }
