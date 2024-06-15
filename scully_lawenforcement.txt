@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "updateLog": [
-        "Fixed an issue where logs wouldn't work due to a missing colon in the string."
+        "Added a statebag to check if a player is jailed."
     ]
 }
