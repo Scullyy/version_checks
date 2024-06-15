@@ -1,0 +1,7 @@
+{
+    "version": "3.1.2",
+    "updateLog": [
+        "Added a version check.",
+        "Improved the support for the TLS modular assets."
+    ]
+}
