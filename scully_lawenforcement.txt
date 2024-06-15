@@ -1,7 +1,6 @@
 {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "updateLog": [
-        "Added a new convar which when enabled will force AFK players off-duty after 10 minutes.",
-        "Added an export which will return how many players are on-duty."
+        "Fixed an issue where logs wouldn't work due to a missing colon in the string."
     ]
 }
