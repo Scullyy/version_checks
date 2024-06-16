@@ -1,7 +1,6 @@
 {
-    "version": "3.1.2",
+    "version": "3.1.3",
     "updateLog": [
-        "Added a version check.",
-        "Improved the support for the TLS modular assets."
+        "Added an export to disable the holster."
     ]
 }
