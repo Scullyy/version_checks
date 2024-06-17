@@ -1,0 +1,7 @@
+{
+    "version": "3.1.2",
+    "updateLog": [
+        "Added support for qb-inventory and ps-inventory.",
+        "Added a version check."
+    ]
+}
