@@ -1,9 +1,7 @@
 {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "updateLog": [
-        "Re-wrote the movement animations when being dragged due to a sync issue.",
-        "Made it so if the outfits or vehicles section is missing for a department it will not show in the menu.",
-        "Added the ability to switch between departments using the /department command which can be changed in the locales.",
-        "Added an export to change the notification system to your own."
+        "Fixed an issue where duty blips would sometimes stay when you go off-duty.",
+        "Added a convar to change your cuff clothing ID's."
     ]
 }
