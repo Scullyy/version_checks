@@ -1,7 +1,7 @@
 {
-    "version": "3.1.2",
+    "version": "3.1.3",
     "updateLog": [
-        "Added support for qb-inventory and ps-inventory.",
-        "Added a version check."
+        "Added an event to force refresh the sling.",
+        "Made many back-end improvements including but not limiting to switching to state bags."
     ]
 }

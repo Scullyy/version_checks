@@ -1,7 +1,7 @@
 {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "updateLog": [
-        "Fixed an issue where duty blips would sometimes stay when you go off-duty.",
-        "Added a convar to change your cuff clothing ID's."
+        "Fixed an issue with the ballistic shield.",
+        "Made many back-end improvements."
     ]
 }
