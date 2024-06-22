@@ -1,7 +1,7 @@
 {
-    "version": "1.1.3",
+    "version": "1.1.4",
     "updateLog": [
-        "Fixed an issue with the ballistic shield.",
-        "Made many back-end improvements."
+        "Fixed an issue with the duty count not lowering when someone goes off-duty.",
+        "Possible solution for larger text on 4k monitors."
     ]
 }
