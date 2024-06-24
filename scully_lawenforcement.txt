@@ -1,7 +1,7 @@
 {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "updateLog": [
-        "Fixed an issue with the duty count not lowering when someone goes off-duty.",
-        "Possible solution for larger text on 4k monitors."
+        "Fixed an issue with the menu looking weird on 4k and 2k monitors.",
+        "Fixed an error that would throw when trying to tackle with no nearby players."
     ]
 }
