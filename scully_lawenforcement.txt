@@ -1,7 +1,8 @@
 {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "updateLog": [
-        "Fixed an issue with the menu looking weird on 4k and 2k monitors.",
-        "Fixed an error that would throw when trying to tackle with no nearby players."
+        "Made many optimizations to the menu scaleforms.",
+        "Changed the description color to match the menu header background.",
+        "You can now disable department location blips."
     ]
 }
