@@ -1,8 +1,8 @@
 {
-    "version": "1.1.6",
+    "version": "1.1.7",
     "updateLog": [
-        "Made many optimizations to the menu scaleforms.",
-        "Changed the description color to match the menu header background.",
-        "You can now disable department location blips."
+        "Fixed an issue where duty blips wouldn't remove when a player left.",
+        "The escape cuff minigame now has it's own config option.",
+        "Added more validation checks to make installation easier."
     ]
 }
