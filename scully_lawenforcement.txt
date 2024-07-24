@@ -1,8 +1,6 @@
 {
-    "version": "1.1.7",
+    "version": "1.1.8",
     "updateLog": [
-        "Fixed an issue where duty blips wouldn't remove when a player left.",
-        "The escape cuff minigame now has it's own config option.",
-        "Added more validation checks to make installation easier."
+        "Fixed an issue with one of the new validation checks."
     ]
 }
