@@ -1,6 +1,6 @@
 {
-    "version": "3.1.4",
+    "version": "3.1.5",
     "updateLog": [
-        "Fixed an error with some of the modular vests."
+        "Fixed an issue where a holster animation would play while running reload character commands."
     ]
 }
