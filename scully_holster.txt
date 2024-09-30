@@ -1,6 +1,6 @@
 {
-    "version": "3.1.5",
+    "version": "3.1.6",
     "updateLog": [
-        "Fixed an issue where a holster animation would play while running reload character commands."
+        "Added an option to adjust the tick rate and idle tick rate."
     ]
 }

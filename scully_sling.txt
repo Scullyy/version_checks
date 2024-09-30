@@ -1,6 +1,7 @@
 {
-    "version": "3.1.4",
+    "version": "3.1.5",
     "updateLog": [
-        "Fixed issues with attachments on ps-inventory."
+        "Improved the UI design.",
+        "Many bug fixes related to weapons poofing."
     ]
 }
