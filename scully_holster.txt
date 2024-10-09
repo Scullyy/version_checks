@@ -1,6 +1,6 @@
 {
-    "version": "3.1.6",
+    "version": "3.1.7",
     "updateLog": [
-        "Added an option to adjust the tick rate and idle tick rate."
+        "Fixed issues where textures wouldn't correctly update in clothing menus for dynamic assets when changing them."
     ]
 }
