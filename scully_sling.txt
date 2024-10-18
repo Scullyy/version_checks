@@ -1,7 +1,7 @@
 {
-    "version": "3.1.5",
+    "version": "3.1.6",
     "updateLog": [
-        "Improved the UI design.",
-        "Many bug fixes related to weapons poofing."
+        "Fixed an issue where some melee weapons wouldn't show.",
+        "Fixed an issue where custom positions wouldn't save."
     ]
 }
