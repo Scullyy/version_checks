@@ -1,7 +1,7 @@
 {
-    "version": "3.1.6",
+    "version": "3.1.7",
     "updateLog": [
-        "Fixed an issue where some melee weapons wouldn't show.",
-        "Fixed an issue where custom positions wouldn't save."
+        "Fixed an issue where weapons would show on a players back when they never had any on the ox_inventory bridge.",
+        "Fixed an issue where weapons would be left in the world when a player disconnected."
     ]
 }
