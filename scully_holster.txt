@@ -1,7 +1,8 @@
 {
-    "version": "3.2.1",
+    "version": "3.2.2",
     "updateLog": [
-        "Sound banks will now load when used and unload after usage.",
-        "Fixed a texture issue with variant 1 of the TLS vests"
+        "Updated the default belt numbers.",
+        "Fixed a texture issue with the vests.",
+        "You can now restart the resource while in-game."
     ]
 }
