@@ -1,6 +1,6 @@
 {
-    "version": "3.1.8",
+    "version": "3.1.9",
     "updateLog": [
-        "Added a check to make sure weapons don't spawn on you if the player it was meant to spawn on wasn't found."
+        "Fixed a bug with the last update."
     ]
 }
