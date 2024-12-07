@@ -1,6 +1,6 @@
 {
-    "version": "1.1.9",
+    "version": "1.2.0",
     "updateLog": [
-        "Fixed an issue where the cops name would show as numbers in the logs instead."
+        "Added controller support to the menu."
     ]
 }
