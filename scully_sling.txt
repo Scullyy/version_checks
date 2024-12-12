@@ -1,6 +1,7 @@
 {
-    "version": "3.2.0",
+    "version": "3.3.0",
     "updateLog": [
-        "Updated the qb-inventory and ps-inventory bridge files to support the latest versions."
+        "Fixed a compatibility issue with the requirement system while using the holster script and an inventory which prevented you from pulling out weapons if they were slinged and required a trunk.",
+        "A fix was pushed to resolve an issue with slot 0 while using ox inventory."
     ]
 }
