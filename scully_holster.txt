@@ -1,9 +1,6 @@
 {
-    "version": "3.3.0",
+    "version": "3.3.1",
     "updateLog": [
-        "A new holster animation is now used for unholstering.",
-        "Added a zone system that allows you to set up areas where you can pull weapons out without the need for a trunk or bag if the requirement is enabled.",
-        "You can now use different drawable ID's for bags.",
-        "Fixed a bug where an incorrect animation would sometimes be used."
+        "Fixed a bug with a recent update that prevented the dynamic assets from working."
     ]
 }
