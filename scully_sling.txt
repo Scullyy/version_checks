@@ -1,6 +1,6 @@
 {
-    "version": "3.3.1",
+    "version": "3.3.2",
     "updateLog": [
-        "Fixed an issue where custom sling positions would not sync between players."
+        "Fixed an issue with trunk functionality while using inventories."
     ]
 }
