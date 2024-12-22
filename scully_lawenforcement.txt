@@ -1,6 +1,7 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "updateLog": [
-        "Improved controller support on the menu."
+        "Improved controller support.",
+        "Fixed an issue where the player would do a slight drop from the air when doing certain cuff actions"
     ]
 }
