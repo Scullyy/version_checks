@@ -1,7 +1,9 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "updateLog": [
-        "Improved controller support.",
-        "Fixed an issue where the player would do a slight drop from the air when doing certain cuff actions"
+        "Loadouts are now department based.",
+        "The ballistic shield can now be configured per department inside the loadouts file.",
+        "Improved the prop spawn system",
+        "Added a help message to the prop placement to inform the player of the controls, propControls was added to the locales files for this."
     ]
 }
