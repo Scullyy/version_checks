@@ -1,0 +1,9 @@
+{
+    "version": "1.0.5",
+    "updateLog": [
+        "Switch to my own version system.",
+        "Add missing prop entries to fxmanifest.",
+        "Fix issue with scenarios not working with command.",
+        "Resolved a reference issue."
+    ]
+}
