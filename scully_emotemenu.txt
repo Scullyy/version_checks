@@ -1,9 +1,9 @@
 {
-    "version": "2.0.5",
+    "version": "2.0.6",
     "updateLog": [
-        "Switch to my own version system.",
-        "Add missing prop entries to fxmanifest.",
-        "Fix issue with scenarios not working with command.",
-        "Resolved a reference issue."
+        "If no emotes are found when searching the menu will re-open.",
+        "Scenario objects will now delete when you cancel the scenario.",
+        "The first dance emote in each category has been renamed to remove the 1.",
+        "New emotes added and some improvements to existing ones."
     ]
 }
