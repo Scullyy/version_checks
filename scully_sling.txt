@@ -1,6 +1,7 @@
 {
-    "version": "3.3.2",
+    "version": "3.3.3",
     "updateLog": [
-        "Fixed an issue with trunk functionality while using inventories."
+        "Fixed an issue where your weapon wouldn't refresh if an attachment was changed while using manual sling.",
+        "Fixed an issue where your weapon wouldn't refresh if your tint was changed"
     ]
 }
