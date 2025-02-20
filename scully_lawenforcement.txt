@@ -1,9 +1,7 @@
 {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "updateLog": [
-        "Loadouts are now department based.",
-        "The ballistic shield can now be configured per department inside the loadouts file.",
-        "Improved the prop spawn system",
-        "Added a help message to the prop placement to inform the player of the controls, propControls was added to the locales files for this."
+        "Client will wait until player is active on the network before checking perms.",
+        "Added a lot of new exports"
     ]
 }
