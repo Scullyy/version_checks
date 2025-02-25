@@ -1,7 +1,7 @@
 {
-    "version": "2.0.7",
+    "version": "2.0.8",
     "updateLog": [
-        "Prevents walk style abuse.",
-        "Fixed issue where you would randomly stand if AFK while crouching."
+        "Fixed issue where prop emotes wouldn't disable if you had one of their flags disabled.",
+        "Fixed an issue where you couldn't restart the resource in-game without losing all your add-on prop emotes due to IsModelValid returning false."
     ]
 }
