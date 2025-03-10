@@ -1,7 +1,6 @@
 {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "updateLog": [
-        "Client will wait until player is active on the network before checking perms.",
-        "Added a lot of new exports"
+        "Fixed an issue with the allowOtherDepartments option not working when set to false."
     ]
 }
