@@ -1,6 +1,6 @@
 {
-    "version": "3.3.1",
+    "version": "3.3.2",
     "updateLog": [
-        "Fixed a bug with a recent update that prevented the dynamic assets from working."
+        "Fixed a bug with component ID's not changing anything other than component ID 7."
     ]
 }
