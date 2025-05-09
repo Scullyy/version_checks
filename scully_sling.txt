@@ -1,7 +1,10 @@
 {
-    "version": "3.3.3",
+    "version": "3.3.4",
     "updateLog": [
-        "Fixed an issue where your weapon wouldn't refresh if an attachment was changed while using manual sling.",
-        "Fixed an issue where your weapon wouldn't refresh if your tint was changed"
+        "Added a reset sling command that can be changed in the config.",
+        "Added support for tgiann and quasar inventories.",
+        "Improved sling positions, make sure to backup the old ones if you prefer them as I no longer have them.",
+        "Fixed an issue with the ox_inventory bridge where you would get an invisible weapon when using MK2 camos.",
+        "Potential fix for rare issue where you would sometimes have another players weapon show on your back."
     ]
 }
