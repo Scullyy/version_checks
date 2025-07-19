@@ -1,6 +1,6 @@
 {
-    "version": "3.3.2",
+    "version": "3.3.4",
     "updateLog": [
-        "Fixed a bug with component ID's not changing anything other than component ID 7."
+        "Added a config option to disable animations inside vehicles."
     ]
 }
