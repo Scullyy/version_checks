@@ -1,6 +1,7 @@
 {
-    "version": "3.3.4",
+    "version": "3.3.5",
     "updateLog": [
-        "Added a config option to disable animations inside vehicles."
+        "Fixed an issue with the EnableVehicleAnim config option not working correctly.",
+        "Fixed an issue where weapons would display on the steering wheel."
     ]
 }
