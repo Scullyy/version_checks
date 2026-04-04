@@ -1,6 +1,13 @@
 {
-    "version": "3.3.5",
+    "version": "3.4.0",
     "updateLog": [
-        "Added a new config option for those with addon MK2 camos in the components file at the bottom."
+        "Breaking Changes: This update requires you to use the new config.lua, weapons.lua, and locales files",
+        "Completely redesigned UI - significantly cleaner and more intuitive",
+        "Added toggle between weapon labels and weapon names in the UI",
+        "New preset system within the UI (fully configurable in config.lua)",
+        "Added configurable distance check to prevent placing weapons too far away",
+        "Implemented startup checks that automatically fix common configuration issues and warn you when needed",
+        "Added notifications for when you modify a weapon's position",
+        "Added support for jaksam_inventory (QB Inventory or OX Inventory compatibility needs to be enabled in jaksam_inventory)"
     ]
 }
