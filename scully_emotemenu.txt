@@ -1,6 +1,6 @@
 {
-    "version": "2.0.9",
+    "version": "2.1.0",
     "updateLog": [
-        "Check: https://github.com/Scullyy/scully_emotemenu/compare/1482059183a4...5a512a967ca5"
+        "Check: https://github.com/Scullyy/scully_emotemenu/commit/0f016055eb724f0938e4f4db1ce3eca974afb65c"
     ]
 }
