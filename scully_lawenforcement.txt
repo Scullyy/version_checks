@@ -1,6 +1,23 @@
 {
-    "version": "1.2.5",
+    "version": "1.3.0",
     "updateLog": [
-        "Fixed an issue with the allowOtherDepartments option not working when set to false."
+        "Added a new duty system. Press the menu keybind to go on-duty as any department you have permission to access. If duty locations are enabled, the keybind can only be used while off-duty at department locations.",
+        "Fixed an issue where props would not show for players who joined after the props were spawned.",
+        "Added a new props configuration option to set an offset heading for props when they initially spawn.",
+        "Added a new props configuration option to allow certain props to spawn multiple times at once, limited by a configurable range.",
+        "Added a new configuration option to limit how many players can go on-duty at once.",
+        "Added a new vehicle configuration option to allow vehicles to spawn with certain mods.",
+        "Added support for vehicle categories in the vehicle configuration.",
+        "Added support for clothing categories in the clothing configuration.",
+        "The cad.lua file is no longer escrowed.",
+        "Removed the data/cad.lua file and moved its strings to the locale files.",
+        "Updated the drag customization export to allow setting the rotation and bone index for custom drags.",
+        "Added a new export to replace the search function with another system, such as ox_inventory.",
+        "Updated the weapons list with missing entries from newer DLCs.",
+        "Running over spike strips is now more realistic. Tires will deflate instead of blowing out, and only the tires that touch the spike strip will be affected.",
+        "Added support for configuring the spike strip models used for tire deflation in the props configuration, so you are no longer forced to use the vanilla model.",
+        "Added a new configuration option to enable movement while hard cuffed.",
+        "Added a new configuration option to set a maximum jail time.",
+        "Added support for the upcoming medical script."
     ]
 }
