@@ -1,6 +1,6 @@
 {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "updateLog": [
-        "Initial release."
+        "Fixed an issue some people were having with the UI when not playing on canary."
     ]
 }
